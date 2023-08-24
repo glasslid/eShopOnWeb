@@ -9,7 +9,7 @@ env:
   LOCATION: CanadaCentral
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 94b473fd-fb57-4185-8bfe-a388550a2920
-  WEBAPP-NAME: az400-webapp-NAME
+  WEBAPP-NAME: az400-webapp-haixia
 
 
 jobs:
